@@ -1,0 +1,37 @@
+.nav-link {
+  margin-left: 2.5rem;
+}
+
+.footer-bg {
+  background-color: #fcf8f8;
+}
+
+.footer-ul li {
+  margin-top: 0.5rem;
+  font-weight: 500;
+}
+
+.footer-ul li a {
+  text-decoration: none;
+  color: #7a7777;
+}
+
+.socials {
+  color: #4a4949;
+}
+
+.terms {
+  color: #4a4949;
+  font-size: small;
+}
+
+.background {
+  background-color: #387ed1;
+  color: #fff;
+}
+.links {
+  margin-bottom: 7rem;
+}
+.links a {
+  margin-right: 1rem;
+}
