@@ -15,7 +15,7 @@ function User() {
         navigate("/login");
       }
       const { data } = await axios.post(
-        "http://localhost:3002",
+        "https://stock-trading-platform-5imb.onrender.com",
         {},
         { withCredentials: true }
       );

@@ -49,7 +49,7 @@ function Signup() {
     e.preventDefault();
     try {
       const { data } = await axios.post(
-        "http://localhost:3002/signup",
+        "https://stock-trading-platform-5imb.onrender.com/signup",
         {
           ...inputValue,
         },

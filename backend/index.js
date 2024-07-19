@@ -27,7 +27,7 @@ mongoose
 
 app.use(
   cors({
-    origin: ["http://localhost:3000"],
+    origin: ["https://gleaming-blancmange-f1aef1.netlify.app/"],
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
   })
