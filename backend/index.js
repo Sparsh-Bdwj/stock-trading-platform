@@ -27,7 +27,7 @@ mongoose
 
 app.use(
   cors({
-    origin: ["https://gleaming-blancmange-f1aef1.netlify.app/"],
+    origin: ["https://eclectic-dragon-f9b1f9.netlify.app/"],
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
   })
